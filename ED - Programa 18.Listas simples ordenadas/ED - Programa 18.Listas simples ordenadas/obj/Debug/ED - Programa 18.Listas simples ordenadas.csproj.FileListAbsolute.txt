@@ -1,0 +1,18 @@
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\bin\Debug\ED - Programa 18.Listas simples ordenadas.exe.config
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\bin\Debug\ED - Programa 18.Listas simples ordenadas.exe
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\bin\Debug\ED - Programa 18.Listas simples ordenadas.pdb
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\obj\Debug\ED - Programa 18.Listas simples ordenadas.csprojResolveAssemblyReference.cache
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\obj\Debug\ED___Programa_18.Listas_simples_ordenadas.Form1.resources
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\obj\Debug\ED___Programa_18.Listas_simples_ordenadas.Properties.Resources.resources
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\obj\Debug\ED - Programa 18.Listas simples ordenadas.csproj.GenerateResource.Cache
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\obj\Debug\ED - Programa 18.Listas simples ordenadas.exe
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\obj\Debug\ED - Programa 18.Listas simples ordenadas.pdb
+E:\4to Semestre\Estructura de datos\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\bin\Debug\ED - Programa 18.Listas simples ordenadas.exe.config
+E:\4to Semestre\Estructura de datos\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\obj\Debug\ED - Programa 18.Listas simples ordenadas.exe
+E:\4to Semestre\Estructura de datos\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\obj\Debug\ED - Programa 18.Listas simples ordenadas.pdb
+E:\4to Semestre\Estructura de datos\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\bin\Debug\ED - Programa 18.Listas simples ordenadas.exe
+E:\4to Semestre\Estructura de datos\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\bin\Debug\ED - Programa 18.Listas simples ordenadas.pdb
+E:\4to Semestre\Estructura de datos\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\obj\Debug\ED - Programa 18.Listas simples ordenadas.csprojResolveAssemblyReference.cache
+E:\4to Semestre\Estructura de datos\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\obj\Debug\ED___Programa_18.Listas_simples_ordenadas.Form1.resources
+E:\4to Semestre\Estructura de datos\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\obj\Debug\ED___Programa_18.Listas_simples_ordenadas.Properties.Resources.resources
+E:\4to Semestre\Estructura de datos\ED - Programa 18.Listas simples ordenadas\ED - Programa 18.Listas simples ordenadas\obj\Debug\ED - Programa 18.Listas simples ordenadas.csproj.GenerateResource.Cache
