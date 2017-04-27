@@ -44,6 +44,8 @@ namespace ED___Programa_18.Listas_simples_ordenadas
         public Producto buscar(int codigo)
         {
             Producto auxiliar = _inicio;
+            //Esta muy bien pero valdría la pena validar que inicio sea diferente de null para que no haya problemas
+            //eso lo recomiendo también en eliminar 
             while (auxiliar.siguiente != null && codigo > auxiliar.codigo)
                 auxiliar = auxiliar.siguiente;
             if (auxiliar.codigo == codigo)
